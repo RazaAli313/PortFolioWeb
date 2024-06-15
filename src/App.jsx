@@ -27,7 +27,7 @@ const siteProps = {
   name: "Muhammad Raza Ali",
   title: "Web Developer &Graphic Desginer",
   workEmail: "raza.ali@studentambassadors.com",
-  personalEmail:razaalipk313@gmail.com,
+  personalEmail:"razaalipk313@gmail.com",
   gitHub: "github.com/RazaAli313",
   instagram: "muhammadrazaali313",
   linkedIn: "https://www.linkedin.com/in/muhammad-raza-ali-748425256/",
